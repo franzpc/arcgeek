@@ -3,7 +3,7 @@
 # Fecha: 11/10/2016
 # email: apantoja.ciat@gmail.com
 # Proposito: Extraer con mascara shp o raster, sirve para una sola carpeta ejemplo worldclim
-# Nota: 
+# Nota: Publicado en ArcGeek (www.acolita.com)
 # ---------------------------------------------------------------------------
 
 import arcpy,os
